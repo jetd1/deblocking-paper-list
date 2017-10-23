@@ -24,12 +24,18 @@
 
 ## HEVC Deblocking
 
+1. Original HEVC
 - Sample Adaptive Offset in the HEVC Standard [[PDF]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6324411)
 
 - HEVC Deblocking Filter [[PDF]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6324414)
 
+2. In-loop Improvements
+
+3. Post-loop Improvements
 - Adaptive Post Filter for Reducing Block Artifacts in High Efficiency Video Coding, 2016 [[PDF]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7946029) ✅
 
-- TWO HEVC ENCODER METHODS FOR BLOCK ARTIFACT REDUCTION [[PDF]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6706452)
+- Decoder-side HEVC quality enhancement with scalable convolutional neural network, ICME 2016 [[PDF]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8019299)
+
+
 
 
